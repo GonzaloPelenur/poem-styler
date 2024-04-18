@@ -1,0 +1,41 @@
+.poem-container {
+    width: 80%;
+    margin: auto;
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    font-family: 'Georgia', serif;
+}
+
+.title {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+}
+
+.author {
+    color: #555;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.stanza {
+    margin-bottom: 15px;
+}
+
+.line {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: left;
+}
+
+.refrain {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: left;
+    font-style: italic;
+}
